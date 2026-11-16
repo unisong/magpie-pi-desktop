@@ -1,0 +1,11 @@
+# Local snapshots and sandboxes: machine state, not source
+verify/*.json
+verify/.sandbox/
+# Left from 0.1.x (fixed model list packed into a .piplug); unused since 0.2.0
+packages/pi-desktop/dist/
+packages/pi-desktop/pi-plugin/
+packages/pi-desktop/scripts/pack.mjs
+# Research notes and working log: they quote one machine's paths and data
+research/
+PROGRESS.md
+node_modules/

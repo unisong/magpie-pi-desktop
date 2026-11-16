@@ -1,0 +1,10 @@
+{
+  "package": "@magpie-community/agent-pi-desktop",
+  "name": "Pi-Desktop",
+  "kind": "agent",
+  "community": true,
+  "summary": {
+    "en": "Pi-Desktop on magpie's Agents page: magpie keeps a Pi-Desktop plugin folder that adds it as a model provider, with its current models and their thinking levels. Pi-Desktop picks up model changes when it starts.",
+    "zh": "把 Pi-Desktop 加到 magpie 的 Agent 页：magpie 维护一个 Pi-Desktop 插件文件夹，把自己加为模型服务，带上当前模型和推理等级；模型有变化时，Pi-Desktop 重启后生效。"
+  }
+}
